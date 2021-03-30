@@ -1,21 +1,17 @@
-Breakfast Fried Rice
+Scrambed Eggs
 
-Servings: 4
+Servings: 1
 
-Time to prepare: 20 minutes
+Time to prepare: 5 minutes
 
-Ingredients:Rice, Eggs, spices, soy sauce, 
+Ingredients: 2 Eggs, butter, salt, pepper
 
+Equipment needed: Pan, whisk
 
-Equipment needed:Wok
+Steps for preparation: 
+1. Whisk eggs salt and pepper.
+2. Melt butter in pan on low
+3. Add eggs to pan
+4. Saute until fully cooked
 
-
-Steps for preparation:Rice in rice cooker with water, whip eggs, scramble eggs, add rice and soy sauce
-
-
-
-Notes: This fried rice might not be very good
-
-
-
-Codemates # what is this?-Gabe
+Notes: Eggs are nutritious and awesome.
