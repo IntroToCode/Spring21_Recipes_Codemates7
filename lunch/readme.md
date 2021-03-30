@@ -15,7 +15,7 @@ Total:
 1 tablespoon extra-light olive oil, or as needed
 2 slices Italian bread
 2 tablespoons mayonnaise
-2 slices Cheddar cheese 
+2 slices Swiss cheese 
 3 slices deli ham, or more to taste
 1 slice firm-ripe tomato 
 1 thin slice onion
@@ -25,7 +25,7 @@ cooking spray
 Panini press
 
 ## Steps for preparation:
-Step 1: Drizzle olive oil on 1 side of each bread slice. Spread 1 tablespoon mayonnaise on the other side of each slice. Pile Cheddar cheese, ham, tomato, and onion on top. Top with other bread slice, mayonnaise side down.
+Step 1: Drizzle olive oil on 1 side of each bread slice. Spread 1 tablespoon mayonnaise on the other side of each slice. Pile Swiss cheese, ham, tomato, and onion on top. Top with other bread slice, mayonnaise side down.
 
 Step 2: Heat a grill pan over medium-high heat; spray lightly with cooking spray. Place sandwich on grill; weigh it down with a heavy pan. Cook until cheese is melted and grill marks appear, 3 to 5 minutes per side.
 
