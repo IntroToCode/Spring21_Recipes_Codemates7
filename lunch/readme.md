@@ -22,7 +22,7 @@ Total:
 cooking spray
 
 ## Equipment needed:
-Panini press is needed
+Panini press
 
 ## Steps for preparation:
 Step 1: Drizzle olive oil on 1 side of each bread slice. Spread 1 tablespoon mayonnaise on the other side of each slice. Pile Cheddar cheese, ham, tomato, and onion on top. Top with other bread slice, mayonnaise side down.
