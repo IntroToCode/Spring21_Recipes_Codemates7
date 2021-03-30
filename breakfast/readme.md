@@ -1,21 +1,21 @@
-# Replace with recipe name
+Breakfast Fried Rice
 
-## Servings: 
+Servings: 4
 
-## Time to prepare: 
+Time to prepare: 20 minutes
 
-## Ingredients:
-
-
-## Equipment needed:
+Ingredients:Rice, Eggs, spices, soy sauce, 
 
 
-## Steps for preparation:
+Equipment needed:Wok
 
 
-
-### Notes:
+Steps for preparation:Rice in rice cooker with water, whip eggs, scramble eggs, add rice and soy sauce
 
 
 
-### Codemates #
+Notes: This fried rice might not be very good
+
+
+
+Codemates # what is this?-Gabe
