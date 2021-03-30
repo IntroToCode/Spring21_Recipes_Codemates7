@@ -9,7 +9,7 @@ What are we making for dinner???
 ## Ingredients:
 1 pound ziti (can sub penne) pasta
 Extra virgin olive oil
-1 pound bulk Italian sausage or ground beef or pork
+2 pound bulk Italian sausage or ground beef or pork
 1 large onion, chopped
 3-4 garlic cloves, chopped
 1 tablespoon fresh rosemary (or basil), minced
