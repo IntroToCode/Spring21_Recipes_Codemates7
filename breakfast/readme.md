@@ -1,3 +1,4 @@
+
 # **Scrambed Eggs**
 
 **Servings:** 
@@ -11,6 +12,16 @@
 
 **Equipment needed:** 
 Pan, whisk
+=======
+# Scrambed Eggs
+
+### Servings: 1
+
+### Time to prepare: 5 minutes
+
+**Ingredients:** 2 Eggs, butter, salt, pepper
+
+**Equipment needed:** Pan, whisk
 
 **Steps for preparation:**
 1. Whisk eggs salt and pepper.
@@ -18,11 +29,4 @@ Pan, whisk
 3. Add eggs to pan
 4. Saute until fully cooked
 
-Notes: Eggs are nutritious and awesome.
-
-@gitjl22
-@g7lewis
-@arontheising
-@alejandravl
-@msastry-code
- 
+*Notes:* Eggs are nutritious and awesome.
