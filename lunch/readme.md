@@ -42,3 +42,4 @@ You can use spreadable cheese in place of mayonnaise, if preferred.
 You can use this recipe to make multiple sandwiches; assemble them ahead of time, grill, and place in a warm oven until serving.
 
 I recommend a George Forman(R) grill because it eliminates the need for flipping. If you don't have a grill pan, use a regular cast iron or nonstick skillet.
+
