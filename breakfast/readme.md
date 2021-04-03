@@ -1,24 +1,33 @@
-Breakfast Fried Rice
 
-Servings: 4
+# **Scrambed Eggs**
 
-Time to prepare: 20 minutes
+**Servings:** 
+1
 
-Ingredients:Rice, Eggs, spices, soy sauce, 
+**Time to prepare:**
+5 minutes
 
+**Ingredients:**
+2 Eggs, butter, salt, pepper
 
-Equipment needed:Wok
+**Equipment needed:** 
+Pan, whisk
+=======
+# Scrambed Eggs
 
+### Servings: 1
 
-Steps for preparation:Rice in rice cooker with water, whip eggs, scramble eggs, add rice and soy sauce
+### Time to prepare: 5 minutes
 
+**Ingredients:** 2 Eggs, butter, salt, pepper
 
+**Equipment needed:** Pan, whisk
 
-Notes: This fried rice might not be very good
-
-
-
-Codemates # what is this?-Gabe
+**Steps for preparation:**
+1. Whisk eggs salt and pepper.
+2. Melt butter in pan on low
+3. Add eggs to pan
+4. Saute until fully cooked
 
 Ingredients
 Ingredient Checklist
@@ -79,3 +88,6 @@ For each pancake, spoon 2 to 3 tablespoons of batter onto skillet, using the bac
 
 Step 5
 Cook until surface of pancakes have some bubbles and a few have burst, 1 to 2 minutes. Flip carefully with a thin spatula, and cook until browned on the underside, 1 to 2 minutes more. Transfer to a baking sheet or platter; cover loosely with aluminum foil, and keep warm in oven. Continue with more oil and remaining batter. (You'll have 12 to 15 pancakes.) Serve warm, with desired toppings.
+=======
+*Notes:* Eggs are nutritious and awesome.
+

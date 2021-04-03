@@ -1,4 +1,4 @@
-What are we making for dinner???
+*Baked Ziti*
 
 ## Servings: 
 6-8
