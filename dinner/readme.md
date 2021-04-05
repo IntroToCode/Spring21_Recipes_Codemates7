@@ -1,4 +1,4 @@
-*Baked Ziti*
+##Baked Ziti:
 
 ## Servings: 
 6-8
